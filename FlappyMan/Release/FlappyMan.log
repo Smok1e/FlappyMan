@@ -1,0 +1,248 @@
+﻿  GameManager.cpp
+C:\Users\Fedor\source\repos\FlappyMan\FlappyMan\GameManager.cpp(1,26): error C2653: 'GameManager': is not a class or namespace name
+C:\Users\Fedor\source\repos\FlappyMan\FlappyMan\GameManager.cpp(1,44): error C2653: 'sf': is not a class or namespace name
+C:\Users\Fedor\source\repos\FlappyMan\FlappyMan\GameManager.cpp(1,31): error C2065: 'RenderWindow': undeclared identifier
+C:\Users\Fedor\source\repos\FlappyMan\FlappyMan\GameManager.cpp(1,46): error C2065: 'window': undeclared identifier
+C:\Users\Fedor\source\repos\FlappyMan\FlappyMan\GameManager.cpp(1,52): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Fedor\source\repos\FlappyMan\FlappyMan\GameManager.cpp(1,54): error C2448: 'GameManager': function-style initializer appears to be a function definition
+C:\Users\Fedor\source\repos\FlappyMan\FlappyMan\GameManager.cpp(1,54): error C2059: syntax error: ':'
+C:\Users\Fedor\source\repos\FlappyMan\FlappyMan\GameManager.cpp(3,11): error C2065: 'window': undeclared identifier
+C:\Users\Fedor\source\repos\FlappyMan\FlappyMan\GameManager.cpp(3,17): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Fedor\source\repos\FlappyMan\FlappyMan\GameManager.cpp(7,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Fedor\source\repos\FlappyMan\FlappyMan\GameManager.cpp(7,1): error C2059: syntax error: '{'
+C:\Users\Fedor\source\repos\FlappyMan\FlappyMan\GameManager.cpp(7,1): error C2143: syntax error: missing ';' before '{'
+C:\Users\Fedor\source\repos\FlappyMan\FlappyMan\GameManager.cpp(7,1): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\Fedor\source\repos\FlappyMan\FlappyMan\GameManager.cpp(32,23): error C2825: 'GameManager': must be a class or namespace when followed by '::'
+C:\Users\Fedor\source\repos\FlappyMan\FlappyMan\GameManager.cpp(32,19): error C2510: 'GameManager': left of '::' must be a class/struct/union
+C:\Users\Fedor\source\repos\FlappyMan\FlappyMan\GameManager.cpp(36,20): error C2065: 'Background': undeclared identifier
+C:\Users\Fedor\source\repos\FlappyMan\FlappyMan\GameManager.cpp(45,30): error C2825: 'GameManager': must be a class or namespace when followed by '::'
+C:\Users\Fedor\source\repos\FlappyMan\FlappyMan\GameManager.cpp(45,19): error C2510: 'GameManager': left of '::' must be a class/struct/union
+C:\Users\Fedor\source\repos\FlappyMan\FlappyMan\GameManager.cpp(45,47): error C2653: 'sf': is not a class or namespace name
+C:\Users\Fedor\source\repos\FlappyMan\FlappyMan\GameManager.cpp(45,47): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Fedor\source\repos\FlappyMan\FlappyMan\GameManager.cpp(45,47): error C2143: syntax error: missing ',' before '&'
+C:\Users\Fedor\source\repos\FlappyMan\FlappyMan\GameManager.cpp(49,30): error C2065: 'event': undeclared identifier
+C:\Users\Fedor\source\repos\FlappyMan\FlappyMan\GameManager.cpp(49,15): error C3861: 'processEvents': identifier not found
+C:\Users\Fedor\source\repos\FlappyMan\FlappyMan\GameManager.cpp(51,30): error C2065: 'event': undeclared identifier
+C:\Users\Fedor\source\repos\FlappyMan\FlappyMan\GameManager.cpp(59,33): error C2825: 'GameManager': must be a class or namespace when followed by '::'
+C:\Users\Fedor\source\repos\FlappyMan\FlappyMan\GameManager.cpp(59,19): error C2510: 'GameManager': left of '::' must be a class/struct/union
+C:\Users\Fedor\source\repos\FlappyMan\FlappyMan\GameManager.cpp(59,50): error C2653: 'sf': is not a class or namespace name
+C:\Users\Fedor\source\repos\FlappyMan\FlappyMan\GameManager.cpp(59,50): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Fedor\source\repos\FlappyMan\FlappyMan\GameManager.cpp(59,50): error C2143: syntax error: missing ',' before '&'
+C:\Users\Fedor\source\repos\FlappyMan\FlappyMan\GameManager.cpp(63,6): error C2065: 'event': undeclared identifier
+C:\Users\Fedor\source\repos\FlappyMan\FlappyMan\GameManager.cpp(63,41): error C2653: 'sf': is not a class or namespace name
+C:\Users\Fedor\source\repos\FlappyMan\FlappyMan\GameManager.cpp(63,31): error C2065: 'KeyPressed': undeclared identifier
+C:\Users\Fedor\source\repos\FlappyMan\FlappyMan\GameManager.cpp(63,47): error C3861: 'onKeyPressed': identifier not found
+C:\Users\Fedor\source\repos\FlappyMan\FlappyMan\GameManager.cpp(71,32): error C2825: 'GameManager': must be a class or namespace when followed by '::'
+C:\Users\Fedor\source\repos\FlappyMan\FlappyMan\GameManager.cpp(71,19): error C2510: 'GameManager': left of '::' must be a class/struct/union
+C:\Users\Fedor\source\repos\FlappyMan\FlappyMan\GameManager.cpp(75,5): error C2653: 'sf': is not a class or namespace name
+C:\Users\Fedor\source\repos\FlappyMan\FlappyMan\GameManager.cpp(75,48): error C2065: 'Escape': undeclared identifier
+C:\Users\Fedor\source\repos\FlappyMan\FlappyMan\GameManager.cpp(75,20): error C3861: 'isKeyPressed': identifier not found
+C:\Users\Fedor\source\repos\FlappyMan\FlappyMan\GameManager.cpp(75,64): error C3861: 'Close': identifier not found
+C:\Users\Fedor\source\repos\FlappyMan\FlappyMan\GameManager.cpp(83,25): error C2825: 'GameManager': must be a class or namespace when followed by '::'
+C:\Users\Fedor\source\repos\FlappyMan\FlappyMan\GameManager.cpp(83,19): error C2510: 'GameManager': left of '::' must be a class/struct/union
+  GameObjects.cpp
+C:\Users\Fedor\source\repos\FlappyMan\FlappyMan\GameObjects.cpp(4,32): error C2653: 'AbstractObject': is not a class or namespace name
+C:\Users\Fedor\source\repos\FlappyMan\FlappyMan\GameObjects.cpp(4,35): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Fedor\source\repos\FlappyMan\FlappyMan\GameObjects.cpp(17,1): error C2550: 'AbstractObject': constructor initializer lists are only allowed on constructor definitions
+C:\Users\Fedor\source\repos\FlappyMan\FlappyMan\GameObjects.cpp(17,2): warning C4508: 'AbstractObject': function should return a value; 'void' return type assumed
+C:\Users\Fedor\source\repos\FlappyMan\FlappyMan\GameObjects.cpp(21,27): error C2653: 'AbstractObject': is not a class or namespace name
+C:\Users\Fedor\source\repos\FlappyMan\FlappyMan\GameObjects.cpp(29,27): error C2653: 'AbstractObject': is not a class or namespace name
+C:\Users\Fedor\source\repos\FlappyMan\FlappyMan\GameObjects.cpp(33,15): error C2065: 'x_': undeclared identifier
+C:\Users\Fedor\source\repos\FlappyMan\FlappyMan\GameObjects.cpp(33,20): error C2065: 'vx_': undeclared identifier
+C:\Users\Fedor\source\repos\FlappyMan\FlappyMan\GameObjects.cpp(33,25): error C2065: 'y_': undeclared identifier
+C:\Users\Fedor\source\repos\FlappyMan\FlappyMan\GameObjects.cpp(33,30): error C2065: 'vy_': undeclared identifier
+C:\Users\Fedor\source\repos\FlappyMan\FlappyMan\GameObjects.cpp(33,2): error C3861: 'setPosition': identifier not found
+C:\Users\Fedor\source\repos\FlappyMan\FlappyMan\GameObjects.cpp(39,34): error C2653: 'AbstractObject': is not a class or namespace name
+C:\Users\Fedor\source\repos\FlappyMan\FlappyMan\GameObjects.cpp(44,2): error C2065: 'x_': undeclared identifier
+C:\Users\Fedor\source\repos\FlappyMan\FlappyMan\GameObjects.cpp(45,2): error C2065: 'y_': undeclared identifier
+C:\Users\Fedor\source\repos\FlappyMan\FlappyMan\GameObjects.cpp(51,14): error C2653: 'sf': is not a class or namespace name
+C:\Users\Fedor\source\repos\FlappyMan\FlappyMan\GameObjects.cpp(51,42): error C2653: 'AbstractObject': is not a class or namespace name
+C:\Users\Fedor\source\repos\FlappyMan\FlappyMan\GameObjects.cpp(51,42): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Fedor\source\repos\FlappyMan\FlappyMan\GameObjects.cpp(51,30): error C2146: syntax error: missing ';' before identifier 'getPosition'
+C:\Users\Fedor\source\repos\FlappyMan\FlappyMan\GameObjects.cpp(53,1): error C2143: syntax error: missing ';' before '{'
+C:\Users\Fedor\source\repos\FlappyMan\FlappyMan\GameObjects.cpp(53,1): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\Fedor\source\repos\FlappyMan\FlappyMan\GameObjects.cpp(61,30): error C2653: 'AbstractObject': is not a class or namespace name
+C:\Users\Fedor\source\repos\FlappyMan\FlappyMan\GameObjects.cpp(65,2): error C2065: 'width_': undeclared identifier
+C:\Users\Fedor\source\repos\FlappyMan\FlappyMan\GameObjects.cpp(66,2): error C2065: 'height_': undeclared identifier
+C:\Users\Fedor\source\repos\FlappyMan\FlappyMan\GameObjects.cpp(72,14): error C2653: 'sf': is not a class or namespace name
+C:\Users\Fedor\source\repos\FlappyMan\FlappyMan\GameObjects.cpp(72,38): error C2653: 'AbstractObject': is not a class or namespace name
+C:\Users\Fedor\source\repos\FlappyMan\FlappyMan\GameObjects.cpp(72,38): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Fedor\source\repos\FlappyMan\FlappyMan\GameObjects.cpp(72,5): error C2086: 'int Vector2f': redefinition
+C:\Users\Fedor\source\repos\FlappyMan\FlappyMan\GameObjects.cpp(51): message : see declaration of 'Vector2f'
+C:\Users\Fedor\source\repos\FlappyMan\FlappyMan\GameObjects.cpp(72,30): error C2146: syntax error: missing ';' before identifier 'getSize'
+C:\Users\Fedor\source\repos\FlappyMan\FlappyMan\GameObjects.cpp(74,1): error C2143: syntax error: missing ';' before '{'
+C:\Users\Fedor\source\repos\FlappyMan\FlappyMan\GameObjects.cpp(74,1): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\Fedor\source\repos\FlappyMan\FlappyMan\GameObjects.cpp(82,35): error C2653: 'AbstractObject': is not a class or namespace name
+C:\Users\Fedor\source\repos\FlappyMan\FlappyMan\GameObjects.cpp(86,2): error C2065: 'vx_': undeclared identifier
+C:\Users\Fedor\source\repos\FlappyMan\FlappyMan\GameObjects.cpp(87,2): error C2065: 'vy_': undeclared identifier
+C:\Users\Fedor\source\repos\FlappyMan\FlappyMan\GameObjects.cpp(93,14): error C2653: 'sf': is not a class or namespace name
+C:\Users\Fedor\source\repos\FlappyMan\FlappyMan\GameObjects.cpp(93,43): error C2653: 'AbstractObject': is not a class or namespace name
+C:\Users\Fedor\source\repos\FlappyMan\FlappyMan\GameObjects.cpp(93,43): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Fedor\source\repos\FlappyMan\FlappyMan\GameObjects.cpp(93,5): error C2086: 'int Vector2f': redefinition
+C:\Users\Fedor\source\repos\FlappyMan\FlappyMan\GameObjects.cpp(51): message : see declaration of 'Vector2f'
+C:\Users\Fedor\source\repos\FlappyMan\FlappyMan\GameObjects.cpp(93,30): error C2146: syntax error: missing ';' before identifier 'getDirection'
+C:\Users\Fedor\source\repos\FlappyMan\FlappyMan\GameObjects.cpp(95,1): error C2143: syntax error: missing ';' before '{'
+C:\Users\Fedor\source\repos\FlappyMan\FlappyMan\GameObjects.cpp(95,1): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\Fedor\source\repos\FlappyMan\FlappyMan\GameObjects.cpp(103,33): error C2653: 'AbstractObject': is not a class or namespace name
+C:\Users\Fedor\source\repos\FlappyMan\FlappyMan\GameObjects.cpp(103,34): error C2065: 'ObjectManager': undeclared identifier
+C:\Users\Fedor\source\repos\FlappyMan\FlappyMan\GameObjects.cpp(103,50): error C2065: 'manager': undeclared identifier
+C:\Users\Fedor\source\repos\FlappyMan\FlappyMan\GameObjects.cpp(103,57): error C2182: 'setManager': illegal use of type 'void'
+C:\Users\Fedor\source\repos\FlappyMan\FlappyMan\GameObjects.cpp(105,1): error C2448: 'setManager': function-style initializer appears to be a function definition
+C:\Users\Fedor\source\repos\FlappyMan\FlappyMan\GameObjects.cpp(113,15): error C2143: syntax error: missing ';' before '*'
+C:\Users\Fedor\source\repos\FlappyMan\FlappyMan\GameObjects.cpp(113,15): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Fedor\source\repos\FlappyMan\FlappyMan\GameObjects.cpp(113,44): error C2653: 'AbstractObject': is not a class or namespace name
+C:\Users\Fedor\source\repos\FlappyMan\FlappyMan\GameObjects.cpp(115,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Fedor\source\repos\FlappyMan\FlappyMan\GameObjects.cpp(115,1): error C2059: syntax error: '{'
+C:\Users\Fedor\source\repos\FlappyMan\FlappyMan\GameObjects.cpp(115,1): error C2143: syntax error: missing ';' before '{'
+C:\Users\Fedor\source\repos\FlappyMan\FlappyMan\GameObjects.cpp(115,1): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\Fedor\source\repos\FlappyMan\FlappyMan\GameObjects.cpp(123,35): error C2653: 'AbstractObject': is not a class or namespace name
+C:\Users\Fedor\source\repos\FlappyMan\FlappyMan\GameObjects.cpp(133,35): error C2653: 'AbstractObject': is not a class or namespace name
+C:\Users\Fedor\source\repos\FlappyMan\FlappyMan\GameObjects.cpp(143,24): error C2653: 'RectObject': is not a class or namespace name
+C:\Users\Fedor\source\repos\FlappyMan\FlappyMan\GameObjects.cpp(143,27): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Fedor\source\repos\FlappyMan\FlappyMan\GameObjects.cpp(149,1): error C2550: 'RectObject': constructor initializer lists are only allowed on constructor definitions
+C:\Users\Fedor\source\repos\FlappyMan\FlappyMan\GameObjects.cpp(151,32): error C2653: 'sf': is not a class or namespace name
+C:\Users\Fedor\source\repos\FlappyMan\FlappyMan\GameObjects.cpp(151,27): error C2065: 'White': undeclared identifier
+C:\Users\Fedor\source\repos\FlappyMan\FlappyMan\GameObjects.cpp(151,2): error C3861: 'setColor': identifier not found
+C:\Users\Fedor\source\repos\FlappyMan\FlappyMan\GameObjects.cpp(157,1): warning C4508: 'RectObject': function should return a value; 'void' return type assumed
+C:\Users\Fedor\source\repos\FlappyMan\FlappyMan\GameObjects.cpp(161,23): error C2653: 'RectObject': is not a class or namespace name
+C:\Users\Fedor\source\repos\FlappyMan\FlappyMan\GameObjects.cpp(163,1): error C2084: function 'void draw(void)' already has a body
+C:\Users\Fedor\source\repos\FlappyMan\FlappyMan\GameObjects.cpp(21): message : see previous definition of 'draw'
+C:\Users\Fedor\source\repos\FlappyMan\FlappyMan\GameObjects.cpp(165,2): error C2065: 'manager_': undeclared identifier
+C:\Users\Fedor\source\repos\FlappyMan\FlappyMan\GameObjects.cpp(165,36): error C2065: 'rect_': undeclared identifier
+C:\Users\Fedor\source\repos\FlappyMan\FlappyMan\GameObjects.cpp(171,27): error C2653: 'RectObject': is not a class or namespace name
+C:\Users\Fedor\source\repos\FlappyMan\FlappyMan\GameObjects.cpp(171,38): error C2653: 'sf': is not a class or namespace name
+C:\Users\Fedor\source\repos\FlappyMan\FlappyMan\GameObjects.cpp(171,32): error C2065: 'Color': undeclared identifier
+C:\Users\Fedor\source\repos\FlappyMan\FlappyMan\GameObjects.cpp(171,38): error C2146: syntax error: missing ')' before identifier 'color'
+C:\Users\Fedor\source\repos\FlappyMan\FlappyMan\GameObjects.cpp(173,1): error C2143: syntax error: missing ';' before '{'
+C:\Users\Fedor\source\repos\FlappyMan\FlappyMan\GameObjects.cpp(173,1): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\Fedor\source\repos\FlappyMan\FlappyMan\GameObjects.cpp(183,11): error C2653: 'sf': is not a class or namespace name
+C:\Users\Fedor\source\repos\FlappyMan\FlappyMan\GameObjects.cpp(183,32): error C2653: 'RectObject': is not a class or namespace name
+C:\Users\Fedor\source\repos\FlappyMan\FlappyMan\GameObjects.cpp(183,32): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Fedor\source\repos\FlappyMan\FlappyMan\GameObjects.cpp(183,23): error C2146: syntax error: missing ';' before identifier 'getColor'
+C:\Users\Fedor\source\repos\FlappyMan\FlappyMan\GameObjects.cpp(185,1): error C2143: syntax error: missing ';' before '{'
+C:\Users\Fedor\source\repos\FlappyMan\FlappyMan\GameObjects.cpp(185,1): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\Fedor\source\repos\FlappyMan\FlappyMan\GameObjects.cpp(193,30): error C2653: 'RectObject': is not a class or namespace name
+C:\Users\Fedor\source\repos\FlappyMan\FlappyMan\GameObjects.cpp(195,1): error C2084: function 'void setPosition(double,double)' already has a body
+C:\Users\Fedor\source\repos\FlappyMan\FlappyMan\GameObjects.cpp(39): message : see previous definition of 'setPosition'
+C:\Users\Fedor\source\repos\FlappyMan\FlappyMan\GameObjects.cpp(197,30): error C2653: 'AbstractObject': is not a class or namespace name
+C:\Users\Fedor\source\repos\FlappyMan\FlappyMan\GameObjects.cpp(197,18): error C2065: 'setPosition': undeclared identifier
+C:\Users\Fedor\source\repos\FlappyMan\FlappyMan\GameObjects.cpp(199,2): error C2065: 'rect_': undeclared identifier
+C:\Users\Fedor\source\repos\FlappyMan\FlappyMan\GameObjects.cpp(199,21): error C2065: 'x_': undeclared identifier
+C:\Users\Fedor\source\repos\FlappyMan\FlappyMan\GameObjects.cpp(199,25): error C2065: 'y_': undeclared identifier
+C:\Users\Fedor\source\repos\FlappyMan\FlappyMan\GameObjects.cpp(205,26): error C2653: 'RectObject': is not a class or namespace name
+C:\Users\Fedor\source\repos\FlappyMan\FlappyMan\GameObjects.cpp(207,1): error C2084: function 'void setSize(double,double)' already has a body
+C:\Users\Fedor\source\repos\FlappyMan\FlappyMan\GameObjects.cpp(61): message : see previous definition of 'setSize'
+C:\Users\Fedor\source\repos\FlappyMan\FlappyMan\GameObjects.cpp(209,26): error C2653: 'AbstractObject': is not a class or namespace name
+C:\Users\Fedor\source\repos\FlappyMan\FlappyMan\GameObjects.cpp(209,18): error C2065: 'setSize': undeclared identifier
+C:\Users\Fedor\source\repos\FlappyMan\FlappyMan\GameObjects.cpp(211,2): error C2065: 'rect_': undeclared identifier
+C:\Users\Fedor\source\repos\FlappyMan\FlappyMan\GameObjects.cpp(211,30): error C2653: 'sf': is not a class or namespace name
+C:\Users\Fedor\source\repos\FlappyMan\FlappyMan\GameObjects.cpp(211,31): error C2065: 'width_': undeclared identifier
+C:\Users\Fedor\source\repos\FlappyMan\FlappyMan\GameObjects.cpp(211,39): error C2065: 'height_': undeclared identifier
+C:\Users\Fedor\source\repos\FlappyMan\FlappyMan\GameObjects.cpp(217,12): error C2653: 'Wall': is not a class or namespace name
+C:\Users\Fedor\source\repos\FlappyMan\FlappyMan\GameObjects.cpp(217,15): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Fedor\source\repos\FlappyMan\FlappyMan\GameObjects.cpp(225,1): error C2550: 'Wall': constructor initializer lists are only allowed on constructor definitions
+C:\Users\Fedor\source\repos\FlappyMan\FlappyMan\GameObjects.cpp(227,2): error C3861: 'reset': identifier not found
+C:\Users\Fedor\source\repos\FlappyMan\FlappyMan\GameObjects.cpp(229,1): warning C4508: 'Wall': function should return a value; 'void' return type assumed
+C:\Users\Fedor\source\repos\FlappyMan\FlappyMan\GameObjects.cpp(233,17): error C2653: 'Wall': is not a class or namespace name
+C:\Users\Fedor\source\repos\FlappyMan\FlappyMan\GameObjects.cpp(237,21): error C2653: 'sf': is not a class or namespace name
+C:\Users\Fedor\source\repos\FlappyMan\FlappyMan\GameObjects.cpp(237,6): error C2065: 'RectangleShape': undeclared identifier
+C:\Users\Fedor\source\repos\FlappyMan\FlappyMan\GameObjects.cpp(237,21): error C2146: syntax error: missing ';' before identifier 'rect'
+C:\Users\Fedor\source\repos\FlappyMan\FlappyMan\GameObjects.cpp(237,21): error C2065: 'rect': undeclared identifier
+C:\Users\Fedor\source\repos\FlappyMan\FlappyMan\GameObjects.cpp(239,2): error C2065: 'rect': undeclared identifier
+C:\Users\Fedor\source\repos\FlappyMan\FlappyMan\GameObjects.cpp(239,20): error C2065: 'x_': undeclared identifier
+C:\Users\Fedor\source\repos\FlappyMan\FlappyMan\GameObjects.cpp(240,2): error C2065: 'rect': undeclared identifier
+C:\Users\Fedor\source\repos\FlappyMan\FlappyMan\GameObjects.cpp(240,29): error C2653: 'sf': is not a class or namespace name
+C:\Users\Fedor\source\repos\FlappyMan\FlappyMan\GameObjects.cpp(240,30): error C2065: 'width_': undeclared identifier
+C:\Users\Fedor\source\repos\FlappyMan\FlappyMan\GameObjects.cpp(240,38): error C2065: 'wHeight': undeclared identifier
+C:\Users\Fedor\source\repos\FlappyMan\FlappyMan\GameObjects.cpp(241,2): error C2065: 'rect': undeclared identifier
+C:\Users\Fedor\source\repos\FlappyMan\FlappyMan\GameObjects.cpp(241,21): error C2065: 'color_': undeclared identifier
+C:\Users\Fedor\source\repos\FlappyMan\FlappyMan\GameObjects.cpp(243,2): error C2065: 'manager_': undeclared identifier
+C:\Users\Fedor\source\repos\FlappyMan\FlappyMan\GameObjects.cpp(243,36): error C2065: 'rect': undeclared identifier
+C:\Users\Fedor\source\repos\FlappyMan\FlappyMan\GameObjects.cpp(245,2): error C2065: 'rect': undeclared identifier
+C:\Users\Fedor\source\repos\FlappyMan\FlappyMan\GameObjects.cpp(245,6): fatal error C1003: error count exceeds 100; stopping compilation
+  Source.cpp
+C:\Lib\ExtraUtilits\ExtraUtilits.h(68,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Lib\ExtraUtilits\ExtraUtilits.h(291,21): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\Fedor\source\repos\FlappyMan\FlappyMan\Config.h(9,45): warning C4244: 'initializing': conversion from 'double' to 'size_t', possible loss of data
+C:\Users\Fedor\source\repos\FlappyMan\FlappyMan\Config.h(9,22): warning C4244: 'initializing': conversion from 'double' to 'const size_t', possible loss of data
+C:\Users\Fedor\source\repos\FlappyMan\FlappyMan\Config.h(10,45): warning C4244: 'initializing': conversion from 'double' to 'size_t', possible loss of data
+C:\Users\Fedor\source\repos\FlappyMan\FlappyMan\Config.h(10,22): warning C4244: 'initializing': conversion from 'double' to 'const size_t', possible loss of data
+C:\Users\Fedor\source\repos\FlappyMan\FlappyMan\Config.h(14,47): warning C4244: 'initializing': conversion from 'double' to 'size_t', possible loss of data
+C:\Users\Fedor\source\repos\FlappyMan\FlappyMan\Config.h(14,24): warning C4244: 'initializing': conversion from 'double' to 'const size_t', possible loss of data
+C:\Users\Fedor\source\repos\FlappyMan\FlappyMan\Config.h(20,56): warning C4244: 'initializing': conversion from 'double' to 'size_t', possible loss of data
+C:\Users\Fedor\source\repos\FlappyMan\FlappyMan\Config.h(20,33): warning C4244: 'initializing': conversion from 'double' to 'const size_t', possible loss of data
+C:\Users\Fedor\source\repos\FlappyMan\FlappyMan\Config.h(21,56): warning C4244: 'initializing': conversion from 'double' to 'size_t', possible loss of data
+C:\Users\Fedor\source\repos\FlappyMan\FlappyMan\Config.h(21,33): warning C4244: 'initializing': conversion from 'double' to 'const size_t', possible loss of data
+C:\Users\Fedor\source\repos\FlappyMan\FlappyMan\Config.h(23,56): warning C4244: 'initializing': conversion from 'double' to 'size_t', possible loss of data
+C:\Users\Fedor\source\repos\FlappyMan\FlappyMan\Config.h(23,33): warning C4244: 'initializing': conversion from 'double' to 'const size_t', possible loss of data
+C:\Users\Fedor\source\repos\FlappyMan\FlappyMan\Config.h(24,56): warning C4244: 'initializing': conversion from 'double' to 'size_t', possible loss of data
+C:\Users\Fedor\source\repos\FlappyMan\FlappyMan\Config.h(24,33): warning C4244: 'initializing': conversion from 'double' to 'const size_t', possible loss of data
+C:\Users\Fedor\source\repos\FlappyMan\FlappyMan\Config.h(26,56): warning C4244: 'initializing': conversion from 'double' to 'size_t', possible loss of data
+C:\Users\Fedor\source\repos\FlappyMan\FlappyMan\Config.h(26,33): warning C4244: 'initializing': conversion from 'double' to 'const size_t', possible loss of data
+C:\Users\Fedor\source\repos\FlappyMan\FlappyMan\Config.h(28,56): warning C4244: 'initializing': conversion from 'double' to 'size_t', possible loss of data
+C:\Users\Fedor\source\repos\FlappyMan\FlappyMan\Config.h(28,33): warning C4244: 'initializing': conversion from 'double' to 'const size_t', possible loss of data
+C:\Users\Fedor\source\repos\FlappyMan\FlappyMan\GameObjects.cpp(55,27): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Fedor\source\repos\FlappyMan\FlappyMan\GameObjects.cpp(55,23): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Fedor\source\repos\FlappyMan\FlappyMan\GameObjects.cpp(76,31): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Fedor\source\repos\FlappyMan\FlappyMan\GameObjects.cpp(76,23): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Fedor\source\repos\FlappyMan\FlappyMan\GameObjects.cpp(97,28): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Fedor\source\repos\FlappyMan\FlappyMan\GameObjects.cpp(97,23): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Fedor\source\repos\FlappyMan\FlappyMan\GameObjects.cpp(199,25): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Fedor\source\repos\FlappyMan\FlappyMan\GameObjects.cpp(199,21): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Fedor\source\repos\FlappyMan\FlappyMan\GameObjects.cpp(211,39): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Fedor\source\repos\FlappyMan\FlappyMan\GameObjects.cpp(211,31): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Fedor\source\repos\FlappyMan\FlappyMan\GameObjects.cpp(239,20): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Fedor\source\repos\FlappyMan\FlappyMan\GameObjects.cpp(240,38): warning C4244: 'argument': conversion from 'const size_t' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Fedor\source\repos\FlappyMan\FlappyMan\GameObjects.cpp(240,30): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Fedor\source\repos\FlappyMan\FlappyMan\GameObjects.cpp(245,24): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Fedor\source\repos\FlappyMan\FlappyMan\GameObjects.cpp(245,20): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Fedor\source\repos\FlappyMan\FlappyMan\GameObjects.cpp(246,38): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Fedor\source\repos\FlappyMan\FlappyMan\GameObjects.cpp(246,30): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]

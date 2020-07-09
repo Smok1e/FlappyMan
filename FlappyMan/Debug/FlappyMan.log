@@ -1,0 +1,86 @@
+﻿  Source.cpp
+C:\Lib\ExtraUtilits\ExtraUtilits.h(68,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Lib\ExtraUtilits\ExtraUtilits.h(291,21): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\Fedor\source\repos\FlappyMan\FlappyMan\Config.h(9,45): warning C4244: 'initializing': conversion from 'double' to 'size_t', possible loss of data
+C:\Users\Fedor\source\repos\FlappyMan\FlappyMan\Config.h(9,22): warning C4244: 'initializing': conversion from 'double' to 'const size_t', possible loss of data
+C:\Users\Fedor\source\repos\FlappyMan\FlappyMan\Config.h(10,45): warning C4244: 'initializing': conversion from 'double' to 'size_t', possible loss of data
+C:\Users\Fedor\source\repos\FlappyMan\FlappyMan\Config.h(10,22): warning C4244: 'initializing': conversion from 'double' to 'const size_t', possible loss of data
+C:\Users\Fedor\source\repos\FlappyMan\FlappyMan\Config.h(14,24): warning C4244: 'initializing': conversion from 'double' to 'size_t', possible loss of data
+C:\Users\Fedor\source\repos\FlappyMan\FlappyMan\Config.h(20,56): warning C4244: 'initializing': conversion from 'double' to 'size_t', possible loss of data
+C:\Users\Fedor\source\repos\FlappyMan\FlappyMan\Config.h(20,33): warning C4244: 'initializing': conversion from 'double' to 'const size_t', possible loss of data
+C:\Users\Fedor\source\repos\FlappyMan\FlappyMan\Config.h(21,56): warning C4244: 'initializing': conversion from 'double' to 'size_t', possible loss of data
+C:\Users\Fedor\source\repos\FlappyMan\FlappyMan\Config.h(21,33): warning C4244: 'initializing': conversion from 'double' to 'const size_t', possible loss of data
+C:\Users\Fedor\source\repos\FlappyMan\FlappyMan\Config.h(23,56): warning C4244: 'initializing': conversion from 'double' to 'size_t', possible loss of data
+C:\Users\Fedor\source\repos\FlappyMan\FlappyMan\Config.h(23,33): warning C4244: 'initializing': conversion from 'double' to 'const size_t', possible loss of data
+C:\Users\Fedor\source\repos\FlappyMan\FlappyMan\Config.h(24,56): warning C4244: 'initializing': conversion from 'double' to 'size_t', possible loss of data
+C:\Users\Fedor\source\repos\FlappyMan\FlappyMan\Config.h(24,33): warning C4244: 'initializing': conversion from 'double' to 'const size_t', possible loss of data
+C:\Users\Fedor\source\repos\FlappyMan\FlappyMan\Config.h(26,56): warning C4244: 'initializing': conversion from 'double' to 'size_t', possible loss of data
+C:\Users\Fedor\source\repos\FlappyMan\FlappyMan\Config.h(26,33): warning C4244: 'initializing': conversion from 'double' to 'const size_t', possible loss of data
+C:\Users\Fedor\source\repos\FlappyMan\FlappyMan\Config.h(28,56): warning C4244: 'initializing': conversion from 'double' to 'size_t', possible loss of data
+C:\Users\Fedor\source\repos\FlappyMan\FlappyMan\Config.h(28,33): warning C4244: 'initializing': conversion from 'double' to 'const size_t', possible loss of data
+C:\Users\Fedor\source\repos\FlappyMan\FlappyMan\GameObjects.cpp(55,27): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Fedor\source\repos\FlappyMan\FlappyMan\GameObjects.cpp(55,23): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Fedor\source\repos\FlappyMan\FlappyMan\GameObjects.cpp(76,31): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Fedor\source\repos\FlappyMan\FlappyMan\GameObjects.cpp(76,23): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Fedor\source\repos\FlappyMan\FlappyMan\GameObjects.cpp(97,28): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Fedor\source\repos\FlappyMan\FlappyMan\GameObjects.cpp(97,23): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Fedor\source\repos\FlappyMan\FlappyMan\GameObjects.cpp(199,25): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Fedor\source\repos\FlappyMan\FlappyMan\GameObjects.cpp(199,21): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Fedor\source\repos\FlappyMan\FlappyMan\GameObjects.cpp(211,39): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Fedor\source\repos\FlappyMan\FlappyMan\GameObjects.cpp(211,31): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Fedor\source\repos\FlappyMan\FlappyMan\GameObjects.cpp(239,20): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Fedor\source\repos\FlappyMan\FlappyMan\GameObjects.cpp(240,38): warning C4244: 'argument': conversion from 'const size_t' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Fedor\source\repos\FlappyMan\FlappyMan\GameObjects.cpp(240,30): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Fedor\source\repos\FlappyMan\FlappyMan\GameObjects.cpp(245,24): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Fedor\source\repos\FlappyMan\FlappyMan\GameObjects.cpp(245,20): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Fedor\source\repos\FlappyMan\FlappyMan\GameObjects.cpp(246,38): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Fedor\source\repos\FlappyMan\FlappyMan\GameObjects.cpp(246,30): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  FlappyMan.vcxproj -> C:\Users\Fedor\source\repos\FlappyMan\Debug\FlappyMan.exe
